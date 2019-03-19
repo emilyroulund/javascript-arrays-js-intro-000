@@ -30,6 +30,6 @@ function removeElementFromBeginningOfArray(array){
   
 }
 
-destructivelyRemoveElementFromEndOfArray(array){
+function destructivelyRemoveElementFromEndOfArray(array){
   
 }
